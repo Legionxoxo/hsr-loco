@@ -51,7 +51,8 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-**Acknowledgments**
+**Acknowledgments**![Screenshot (23)](https://github.com/user-attachments/assets/3a88fa20-a1d0-438d-9feb-fd63dde27432)
+
 
 We'd like to thank the Honkai Star Rail team for creating such an amazing game, and the GSAP and Locomotive.js teams for providing such powerful libraries 🙏.
 
